@@ -24,7 +24,7 @@ export default {
         },
         {
           id: 4,
-          name: 'Javascript',
+          name: 'JavaScript',
           imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
           status: 'Advance'
         },
@@ -32,7 +32,7 @@ export default {
           id: 5,
           name: 'Laravel',
           imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
-          status: 'Advance'
+          status: 'Beginner'
         },
         {
           id: 6,
