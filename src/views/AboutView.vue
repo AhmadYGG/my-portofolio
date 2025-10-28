@@ -123,14 +123,19 @@ export default {
       <section
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
-          <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg" alt="Foto">
+          <div class="w-[400px] h-[400px] overflow-hidden rounded-full mb-3 fadein-up">
+            <img 
+              src="/img/avatar.png" 
+              alt="Foto"
+              class="w-full h-full object-cover object-top"
+            >
+          </div>
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
             &nbsp; &nbsp; &nbsp;
             Heyy yo!
-            Name’s Muhammad Aziz – a Computer Science student straight outta Blitar, East Java.
+            Name’s Muhammad Aziz – a Informatics Engineering student straight outta Blitar, East Java.
             I’ve been messin’ around with code for a while now. Laravel? Still kinda fresh in my journey. But when it comes to game servers (especially SA-MP roleplay stuff), I’ve been grindin’ that scene for more than 3 years. That’s where I built up most of my skills – handling scripts, servers, and makin’ systems run smooth.
           </p>
           <p class="mb-3 fadein-left fadeins-2">

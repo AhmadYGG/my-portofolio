@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl: 'portfolio_v2',
+          imageUrl: 'portfolio',
           status: 'My personal website built to showcase my profile, skills, and projects with a minimalist design and smooth animations. It also serves as a playground for experimenting with new technologies.',
           tech: 'VueJS 3, Tailwind',
           demo: 'https://ahmeed-portofolio.vercel.app/'
