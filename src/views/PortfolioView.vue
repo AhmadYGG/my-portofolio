@@ -10,7 +10,7 @@ export default {
           imageUrl: 'portfolio_v2',
           status: 'My personal website built to showcase my profile, skills, and projects with a minimalist design and smooth animations. It also serves as a playground for experimenting with new technologies.',
           tech: 'VueJS 3, Tailwind',
-          demo: 'https://bagasrakha.netlify.app/'
+          demo: 'https://ahmeed-portofolio.vercel.app/'
         },
         {
           id: 2,
